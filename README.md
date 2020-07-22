@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # system
 学生管理系统
+MoongoDb+vue+nodejs
+npm run serve
+node server
 =======
 # studentm
 
