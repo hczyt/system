@@ -5,6 +5,7 @@
 =======
 # studentm
 MoongoDb+vue+nodejs
+#运行程序
 npm run serve
 node server
 ## Project setup
