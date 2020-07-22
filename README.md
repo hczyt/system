@@ -1,12 +1,12 @@
 <<<<<<< HEAD
 # system
 学生管理系统
+
+=======
+# studentm
 MoongoDb+vue+nodejs
 npm run serve
 node server
-=======
-# studentm
-
 ## Project setup
 ```
 npm install
